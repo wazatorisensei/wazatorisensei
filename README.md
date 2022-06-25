@@ -3,13 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-yuzo-kohara-b93b711a4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jan_wazatori/)
 
-![wazatorisensei Stats](https://github-readme-stats.vercel.app/api?username=wazatorisensei&show_icons=true&theme=tokyonight)
-
-![wazatorisensei Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=wazatorisensei&layout=compact&theme=tokyonight)
-
-<!--![wazatorisensei Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=&repo=github-readme-stats&theme=tokyonight)
-
-![wazatorisensei Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=&theme=tokyonight)-->
+![wazatorisensei stats](https://github-readme-stats.vercel.app/api?username=wazatorisensei&show_icons=true&theme=tokyonight)
 
 ## Technologies that I have studied or am studying
 <div style="display: inline_block"><br/>
