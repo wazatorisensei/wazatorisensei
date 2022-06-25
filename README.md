@@ -1,9 +1,6 @@
 # Wazatori Sensei GitHub Wellcome ! 👺
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-yuzo-kohara-b93b711a4/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jan_wazatori/)
-
-![Wazatorisensei stats](https://github-readme-stats.vercel.app/api?username=wazatorisensei&show_icons=true&theme=tokyonight) ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazatorisensei&layout=compact&theme=tokyonight)
+## "_Programming is the science medium by which we can emulate the magic of creating the world of the future."
 
 ## Technologies that I have studied or am studying
 <div style="display: inline_block"><br/>
@@ -21,7 +18,10 @@
     <!img align="center" alt="name" src="url" />
 </div><br/>
 
-# "_Programming is the science medium by which we can emulate the magic of creating the world of the future."
+### Social Network
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-yuzo-kohara-b93b711a4/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jan_wazatori/)
 
 ### E-mail: 
 - janyuzokohara@gmail.com 
