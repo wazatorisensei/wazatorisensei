@@ -30,6 +30,7 @@
 
 ### init - initializate repository
 ### add - added new things
+### remove - remove new things and add new ones
 ### feat - feature
 ### bugfix - correct te bugfix
 ### config or reconfig - project configuration
