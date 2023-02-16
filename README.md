@@ -7,11 +7,11 @@
 
 ### IDE
 
-<img align="center" alt="VSCode" src="	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 ### Terminal
 
-<img align="center" alt="Cmder" src="https://img.shields.io/badge/%CE%BB-Cmder-green?style=for-the-badge?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAETSURBVHgBnZLPqwFRFMePeUPx6tXTe6OQzEKUsqCsWE+WVv4Cf4C/wMKfYeU/sLVmY8FCiVCDZhYzfqRkFIq5B7dRRpe7Ofec7ud+v51zHKV2+QwfHN6aTOp9WA10cP99QyQfx8gEfrl5WA91vJOYqUjAe5xPQc6aiFIUcrUCeGMC7Jc7UJoy2B3uWTEsRTBqXfU9UOuo1C5RZgbXwwW9Ky2ZDdS6Cqp4Y/+YzxpjRvBmM5ARsUlH40A7bQsSJbU1BafHBcGsCELSf7XbnL4G7z8LyQBGApM56mZ3T8bRHpQbI4y+mxJR/gn9ot1etf0Ac1ab2/kG18yXCtIHiWIaa2Smq4FG6w7WJTfMj12mg/sKXgDhVGfrK983BAAAAABJRU5ErkJggg==" />
+<img align="center" alt="Cmder" src="https://img.shields.io/badge/Cmder-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAETSURBVHgBnZLPqwFRFMePeUPx6tXTe6OQzEKUsqCsWE+WVv4Cf4C/wMKfYeU/sLVmY8FCiVCDZhYzfqRkFIq5B7dRRpe7Ofec7ud+v51zHKV2+QwfHN6aTOp9WA10cP99QyQfx8gEfrl5WA91vJOYqUjAe5xPQc6aiFIUcrUCeGMC7Jc7UJoy2B3uWTEsRTBqXfU9UOuo1C5RZgbXwwW9Ky2ZDdS6Cqp4Y/+YzxpjRvBmM5ARsUlH40A7bQsSJbU1BafHBcGsCELSf7XbnL4G7z8LyQBGApM56mZ3T8bRHpQbI4y+mxJR/gn9ot1etf0Ac1ab2/kG18yXCtIHiWIaa2Smq4FG6w7WJTfMj12mg/sKXgDhVGfrK983BAAAAABJRU5ErkJggg==" />
 
 ### Skills
 
@@ -66,7 +66,9 @@
 
 #### feat: feature
 
-#### bugfix: - correct te bugfix
+#### bugfix: correct te bugfix
+
+#### correct: correct te error before build and production
 
 #### config or reconfig: project configuration
 
