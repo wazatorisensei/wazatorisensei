@@ -58,6 +58,8 @@
 
 #### remove: remove new things and add new ones
 
+#### change: change a minimum thing
+
 #### feat: feature
 
 #### bugfix: correct te bugfix
