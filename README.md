@@ -28,13 +28,13 @@
 
 ## Glossary of commit terms
 
-### init - initializate repository
-### add - added new things
-### remove - remove new things and add new ones
-### feat - feature
-### bugfix - correct te bugfix
-### config or reconfig - project configuration
-### work_on - still working on commit
-### work_end - finished work on commit
-### refactor - project all refactored or part
-### new_lib - add a library
+#### init: initializate repository
+#### add: added new things
+#### remove: remove new things and add new ones
+#### feat: feature
+#### bugfix: - correct te bugfix
+#### config or reconfig: project configuration
+#### work_on: still working on commit
+#### work_end: finished work on commit
+#### refactor: project all refactored or part
+#### new_lib: add a library
