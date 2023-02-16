@@ -2,9 +2,6 @@
 
 ## "\_Programming is the science medium by which we can emulate the magic of creating the world of the future."
 
-
-<div style="display: inline_block"><br/>
-
 ### IDE
 
 <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -42,7 +39,6 @@
 <img align="center" alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
     
 <!img align="center" alt="name" src="url" />
-</div><br/>
 
 ### Social Network
 
