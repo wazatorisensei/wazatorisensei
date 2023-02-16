@@ -2,15 +2,15 @@
 
 ## "\_Programming is the science medium by which we can emulate the magic of creating the world of the future."
 
-### 👩‍💻 IDE
+## 👩‍💻 IDE
 
 <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-### 💻 Terminal
+## 💻 Terminal
 
 <img alt="Cmder" src="https://img.shields.io/badge/Cmder-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAETSURBVHgBnZLPqwFRFMePeUPx6tXTe6OQzEKUsqCsWE+WVv4Cf4C/wMKfYeU/sLVmY8FCiVCDZhYzfqRkFIq5B7dRRpe7Ofec7ud+v51zHKV2+QwfHN6aTOp9WA10cP99QyQfx8gEfrl5WA91vJOYqUjAe5xPQc6aiFIUcrUCeGMC7Jc7UJoy2B3uWTEsRTBqXfU9UOuo1C5RZgbXwwW9Ky2ZDdS6Cqp4Y/+YzxpjRvBmM5ARsUlH40A7bQsSJbU1BafHBcGsCELSf7XbnL4G7z8LyQBGApM56mZ3T8bRHpQbI4y+mxJR/gn9ot1etf0Ac1ab2/kG18yXCtIHiWIaa2Smq4FG6w7WJTfMj12mg/sKXgDhVGfrK983BAAAAABJRU5ErkJggg==" />
 
-### 🚀 Skills
+## 🚀 Skills
 
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -24,20 +24,20 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 
-### 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
-### 🎨 Design
+## 🎨 Design
 
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
-### 🧐 Linter
+## 🧐 Linter
 
 <img alt="ESLint" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
 
-### 🤜🤛 Social Network
+## 🤜🤛 Social Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-yuzo-kohara-b93b711a4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jan_wazatori/)
