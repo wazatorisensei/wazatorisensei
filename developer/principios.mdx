@@ -1,0 +1,54 @@
+# Princípios
+
+# DRY
+
+Don't Repeat Youself.
+
+ERRADO: Não repetir código.
+CERTO: Não repetir "regra de negócio".
+
+## Front-end
+
+```tsx
+<Table columns={['Nome']} data={[]} parseData={(column => column.name == 'Nome')} sort />
+```
+Quando você tenta automatizar tudo, você pode dificultar as coisas.
+
+## Back-end
+
+``` js
+users {
+  name
+  email
+  password
+}
+
+CrudController (index, show, create, update, delete)
+```
+
+O problema e que chega um momento que vai ficar tanta coisa que começa a dar excessão.
+
+Otimização prematura.
+
+# KISS
+
+Keep it simple stupid.
+
+Mantenha seu código estúpidamente simples de entender.
+
+```js
+function showUserInformation(users) {
+  return data.map(user => ({
+    name: u.name,
+    age: u.age
+  }))
+}
+```
+
+# YAGNI
+
+You ain't gonna not a need it.
+
+Não adicione aquilo que não e necessário para o projeto.
+
+# SOLID

@@ -1,0 +1,68 @@
+{
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.minimap.enabled": true,
+  "editor.fontSize": 16,
+  "editor.colorDecorators": true,
+  "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontSize": 16,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+  "editor.bracketPairColorization.enabled": false,
+  "[lua]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "[csharp]": {
+    "editor.defaultFormatter": "ms-dotnettools.csharp"
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js, ${capture}.typegen.ts",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts, ${capture}.typegen.ts",
+    "*.mts": "${capture}.typegen.ts",
+    "*.cts": "${capture}.typegen.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml"
+  },
+  "color-highlight.enable": true,
+  "color-highlight.matchWords": true,
+  "color-highlight.markRuler": true,
+  "color-highlight.markerType": "background",
+  "color-highlight.matchRgbWithNoFunction": false,
+  "color-highlight.sass.includePaths": [],
+  "color-highlight.languages": ["*", "js", "ts", "jsx", "tsx", "cs"],
+  "color-highlight.rgbWithNoFunctionLanguages": [
+    "*"
+  ],
+  "git.confirmSync": false
+}

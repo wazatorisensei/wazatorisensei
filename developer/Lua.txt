@@ -1,0 +1,25 @@
+Para configurar o Visual Studio Code (VS Code) para usar o suporte à linguagem Lua, você pode seguir estas etapas:
+
+Instale a extensão "Lua":
+Código VS aberto
+Clique no ícone Extensões na barra lateral esquerda
+Procure por "Lua" na barra de pesquisa
+Clique em "Instalar" para a extensão "Lua" por sumneko
+Configure o servidor de linguagem Lua:
+Baixe o binário do servidor de linguagem Lua no seguinte link: https://github.com/sumneko/lua-language-server/releases
+Extraia o arquivo baixado e abra a pasta extraída
+Abra o VS Code e clique no ícone Configurações no canto inferior esquerdo
+Pesquise por "Lua.workspace.library" na barra de pesquisa
+Clique em "Editar em settings.json"
+Adicione a seguinte configuração ao arquivo "settings.json", substituindo o caminho para o binário extraído do servidor de linguagem Lua:
+json
+
+Copiar código
+"Lua.workspace.library": {
+    "C:/path/to/lua-language-server/main.lua": true
+}
+Crie ou abra um arquivo Lua:
+Código VS aberto
+Clique em "Arquivo" > "Novo arquivo" para criar um novo arquivo ou clique em "Arquivo" > "Abrir" para abrir um arquivo Lua existente
+Certifique-se de que o arquivo tenha uma extensão ".lua"
+É isso! Agora você deve ter suporte ao idioma Lua no VS Code.

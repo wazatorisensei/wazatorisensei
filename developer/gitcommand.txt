@@ -1,0 +1,23 @@
+git init - inicia o git na pasta.
+
+git status - vê o que foi modificado.
+
+git rm "arquivo"(rm = remove) obs.: se tiver conectado no git.
+
+git rm -f "nome do arquivo"(rm = remove -f = force) => (apaga o arquivo da pasta).
+
+git add "arquivo" + git commit "ele entra em uma tela" (comentário para identificar o trabalho) 
+aperta "i" para editar e "esc" para sair da edição e ":x" para salvar e fechar.
+
+se usar git add . (ele adiciona todos os arquivos não adicionados ainda)
+
+git commit -m "mensagem que deseja" + antes de git add "arquivo" 
+(não esta funcionando em aspas simples e sim duplas).
+
+git remote -v (v = verifier) verifica se a pasta esta linkada no github.
+
+git remote add origin "nome da url repositorio criado no github"
+
+git branch -m <nomeatual> <novonome> - renomeia branch
+
+git clone -b <branchname> <remote-repo-url> - clona uma branch especifica

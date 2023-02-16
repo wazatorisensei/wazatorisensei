@@ -18,9 +18,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-yuzo-kohara-b93b711a4/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jan_wazatori/)
 
-### E-mail: 
+## E-mail: 
 - janyuzokohara@gmail.com 
 - wazatorisensei@gmail.com 
 - janwazatori@gmail.com 
 - janyuzokohara@hotmail.com
 - jankohara@id.uff.br
+
+
+## Glossary of commit terms
+
+### init - initializate repository
+### add - added new things
+### feat - feature
+### bugfix - correct te bugfix
+### config or reconfig - project configuration
+### work_on - still working on commit
+### work_end - finished work on commit
+### refactor - project all refactored or part
+### new_lib - add a library
