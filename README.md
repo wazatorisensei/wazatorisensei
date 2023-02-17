@@ -30,7 +30,7 @@
 
 ## 🎨 Design
 
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAEsSURBVDhPY1RQ1vrPQAZggtIYQPbDPQaFn+/BGBvAsPGY2icGHhZGhn+MTAz8yi5gsUefvzDY778MZsMAio2RLE/AmtCBHC8PgxXrTygPAlA0Lv8jw/DmF8wBCIc8BNp47Dc7lAcBGH5c8KuV4QjnSoYjHCsZfH7KMPiZFTA48NhCZREAxY/y/60Yks1ng9n/Gf4yVCb9Z/gP9CsIfKj2YRB/8xDMBgEUG/8z/oGygADo1X9fP4GZIJP//0b1I7OAkGgDlM3wkeEpw1Oxjwzf9AQYnoq+Zrjf6c3whZWd4cfm2QxiT69BVUEAilOfiv1mYJkWD2Yz/WNgEA1bBmZjA6iBoy4JZQCd9h3VaegARaP04TcM/599YGD895/hz6IjUFHsgPppFT9gYAAAwOtdalQKbLIAAAAASUVORK5CYII=" />
 <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
 ## 🧐 Linter
